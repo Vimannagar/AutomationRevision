@@ -17,5 +17,10 @@ public class A {
 	{
 		System.out.println("m2 method");
 	}
+	
+	private void m3()
+	{
+		
+	}
 
 }

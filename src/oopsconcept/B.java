@@ -8,6 +8,11 @@ public class B extends A
 		System.out.println("B class constructor");
 	}
 	
+	public void m3()
+	{
+		System.out.println("m3 from B class");
+	}
+	
 	public static void main(String[] args) {
 		
 		
